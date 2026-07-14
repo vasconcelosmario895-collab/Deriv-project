@@ -1,0 +1,46 @@
+<!DOCTYPE html>
+<html lang="pt">
+<head>
+<meta charset="UTF-8">
+<meta name="viewport" content="width=device-width,initial-scale=1">
+<title>Mário Vasconcelos</title>
+<style>
+body{margin:0;font-family:Arial;background:#111;color:#fff;text-align:center}
+.hero{padding:60px 20px;background:#d71920}
+h1{font-size:34px;margin:0}
+p{max-width:700px;margin:20px auto;line-height:1.6}
+.btn{display:inline-block;margin:10px;padding:15px 30px;border-radius:40px;
+text-decoration:none;font-weight:bold}
+.deriv{background:#fff;color:#d71920}
+.whats{background:#25D366;color:#fff}
+.box{padding:40px 20px}
+footer{padding:20px;background:#000}
+</style>
+</head>
+<body>
+
+<div class="hero">
+<h1>Aprenda sobre Trading e Carteiras Digitais</h1>
+<p>Compartilho gratuitamente conteúdos educativos sobre criação de contas, verificação, carteiras digitais e noções de plataformas de negociação.</p>
+
+<a class="btn deriv" href="#">Conhecer a Deriv</a>
+
+<a class="btn whats" href="#">Entrar no Grupo WhatsApp</a>
+</div>
+
+<div class="box">
+<h2>O que você vai aprender</h2>
+
+<p>✅ Como criar uma conta.</p>
+<p>✅ Como verificar sua conta.</p>
+<p>✅ Como utilizar carteiras digitais.</p>
+<p>✅ Noções de gestão de risco.</p>
+<p>✅ Conteúdo gratuito para iniciantes.</p>
+</div>
+
+<footer>
+© 2026 Mário Vasconcelos
+</footer>
+
+</body>
+</html>
